@@ -148,4 +148,3 @@ Always keep it inside the `.env` file.
 ## Author
 
 Sunidhi Choudhary
-GitHub: https://github.com/sunidhi009
